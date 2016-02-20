@@ -1,0 +1,8 @@
+D:\csharp\email-a\1\1\obj\Debug\EmailVerExample.pdb
+D:\csharp\email-a\1\1\bin\EmailVerExample.exe
+D:\csharp\email-a\1\1\bin\EmailVerExample.pdb
+D:\csharp\email-a\1\1\bin\EmailVerExample.xml
+D:\csharp\email-a\1\1\obj\Debug\EmailVerExample.Form1.resources
+D:\csharp\email-a\1\1\obj\Debug\EmailVerExample.vbproj.GenerateResource.Cache
+D:\csharp\email-a\1\1\obj\Debug\EmailVerExample.exe
+D:\csharp\email-a\1\1\obj\Debug\EmailVerExample.xml

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EmailVerExample
+</name>
+</assembly>
+<members>
+<member name="M:EmailVerExample.com.cdyne.ws.ev.#ctor">
+	<remarks/>
+</member><member name="E:EmailVerExample.com.cdyne.ws.ev.VerifyEmailCompleted">
+	<remarks/>
+</member><member name="E:EmailVerExample.com.cdyne.ws.ev.ReturnCodesCompleted">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.VerifyEmail(System.String)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.BeginVerifyEmail(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.EndVerifyEmail(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.VerifyEmailAsync(System.String)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.VerifyEmailAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.ReturnCodes">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.BeginReturnCodes(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.EndReturnCodes(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.ReturnCodesAsync">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.ReturnCodesAsync(System.Object)">
+	<remarks/>
+</member><member name="M:EmailVerExample.com.cdyne.ws.ev.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:EmailVerExample.com.cdyne.ws.ev">
+	<remarks/>
+</member><member name="P:EmailVerExample.com.cdyne.ws.ReturnIndicator.ResponseText">
+	<remarks/>
+</member><member name="P:EmailVerExample.com.cdyne.ws.ReturnIndicator.ResponseCode">
+	<remarks/>
+</member><member name="P:EmailVerExample.com.cdyne.ws.ReturnIndicator.LastMailServer">
+	<remarks/>
+</member><member name="T:EmailVerExample.com.cdyne.ws.ReturnIndicator">
+	<remarks/>
+</member><member name="T:EmailVerExample.com.cdyne.ws.VerifyEmailCompletedEventHandler">
+	<remarks/>
+</member><member name="P:EmailVerExample.com.cdyne.ws.VerifyEmailCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:EmailVerExample.com.cdyne.ws.VerifyEmailCompletedEventArgs">
+	<remarks/>
+</member><member name="T:EmailVerExample.com.cdyne.ws.ReturnCodesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:EmailVerExample.com.cdyne.ws.ReturnCodesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:EmailVerExample.com.cdyne.ws.ReturnCodesCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>
